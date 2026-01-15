@@ -1,0 +1,66 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+uidai_env/
+venv/
+.env/
+.env.bak/
+
+# ============================
+# Jupyter / IPython
+# ============================
+.ipynb_checkpoints/
+profile_default/
+
+# ============================
+# macOS
+# ============================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ============================
+# Streamlit
+# ============================
+.streamlit/
+*.log
+
+# ============================
+# Data & Outputs
+# ============================
+# Raw datasets (do NOT upload large CSVs)
+data/
+raw_data/
+processed_data/
+
+# Model outputs (keep only final CSV if needed)
+outputs/figures/
+outputs/tmp/
+
+# ============================
+# Reports & Downloads
+# ============================
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# ============================
+# IDE / Editor
+# ============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ============================
+# System / Misc
+# ============================
+Thumbs.db
