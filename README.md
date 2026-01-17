@@ -179,7 +179,15 @@ This project is developed for the **UIDAI Data Hackathon 2026**. Data usage is g
 
 ## Contributors
 
-[Your Name/Team Name]  
+**Team ID -** UIDAI_7198
+
+**Team Members:-**
+- Aaron Rao
+- Abhinand Meethele Valappil
+- Shreyansh Arora
+- Garv Randhar
+- Aditi Karn
+
 UIDAI Data Hackathon 2026
 
 ---
@@ -187,8 +195,8 @@ UIDAI Data Hackathon 2026
 ## Contact
 
 For queries regarding this analysis:  
-📧 [your-email@domain.com]  
-🔗 [GitHub/LinkedIn Profile]
+📧 [Email](mvabhinand2005@gmail.com)  
+🔗 [Aaron Rao](https://github.com/Aaronrao989)
 
 ---
 
